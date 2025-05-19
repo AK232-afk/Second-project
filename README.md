@@ -3,7 +3,7 @@
 
 # Project 2 PowerBI
 
-![Image Description]_(Screenshot_powerbi.png)
+![Screenshot of PowerBi]_(Screenshot_powerbi.png)
 
 ### Unordered
 
