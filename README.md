@@ -2,17 +2,8 @@
 # Markdown syntax guide
 
 # Project 2 PowerBI
-## 
-###### 
 
-## Emphasis
-
-
-_You **can** combine them_
-
-## Images
-
-![Image Description]_
+![Image Description]_(Screenshot_getting_data_powerbi.png)
 
 ### Unordered
 
